@@ -18,7 +18,7 @@
 
 ## Ссылка на развернутый проект
 
-- [x] [Развернутый проект на GitHub Pages](https://nikolay87-ru.github.io/React-App/ 'Ссылка на проект')
+- [x] [Развернутый проект на GitHub Pages](https://nikolaye-ru.github.io/React-App/ 'Ссылка на проект')
 
 ## Особенности проекта
 
